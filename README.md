@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fushindcw&theme=tokyonight)](https://github.com/fushindcw/fushindcw.github.io)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fushindcw)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fushindcw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
